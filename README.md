@@ -12,4 +12,3 @@ My name is **Farhan Nafis** and I'm a full-stack developer/engineer who currentl
 ### Reached me at:
 - [Linkedin](https://linkedin.com/in/farhannafis/)
 - [Twitter](https://twitter.com/farhannafis)
-- [Instagram](https://instagram.com/farhannafis)
