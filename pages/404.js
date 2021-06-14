@@ -8,7 +8,7 @@ export default function NotFound() {
 
   useEffect(() => {
     setTheme(localStorage.theme || colorTheme);
-  })
+  }, []);
 
   return(
     <main className="flex items-center flex-auto max-w-7xl mx-auto bg-gray-50 dark:bg-coolGray-900">
