@@ -53,7 +53,7 @@ const Header = () => {
           </div>
           <div className="hidden w-full md:flex md:items-center md:justify-between md:space-x-8">
             <div className="md:space-x-8">
-              <a href="/projects" className="font-medium text-gray-500 hover:text-primary-500">Projects</a>
+              <a href="/projects" className="font-medium text-gray-500 dark:text-white hover:text-primary-600 dark:hover:text-primary-500">Projects</a>
               {/* <a href="/articles" className="font-medium text-gray-500 hover:text-primary-500">Articles</a> */}
               {/* <a href="#" className="font-medium text-primary-600 hover:text-primary-500">Resume</a> */}
             </div>
